@@ -1,0 +1,6 @@
+pip
+python-dotenv
+pytube
+setuptools
+tk   
+pip install
